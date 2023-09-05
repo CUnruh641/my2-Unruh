@@ -14,7 +14,7 @@ Finding it **enjoyable** to be by them.
 
 * Any food that we would enjoy eating together
 
-Let's go to MyStats.md <https://github.com/CUnruh641/my2-Unruh/blob/main/MyStats.md>
+Let's go to [MyStats]<https://github.com/CUnruh641/my2-Unruh/blob/main/MyStats.md>
 
 ***
 
@@ -37,3 +37,27 @@ Here is a table of some sports that I would like to recommend to you.
 
 > "The only true wisdom is in knowing you know nothing." *Socrates*
 
+***
+
+# Code Snippet
+
+> I'm trying to create a simple page with CSS Grid.
+>
+> What I'm failing to do is center the text from the HTML to the respective grid cells.
+>
+> I've tried placing content in separate divs both inside and outside of the left_bg and right_bg > > > selectors and playing with some of the CSS properties to no avail.
+> 
+> How do I do this?
+
+Article <https://stackoverflow.com/questions/45536537/centering-in-css-grid>
+
+```
+.item-a {
+  grid-column-start: 2;
+  grid-column-end: five;
+  grid-row-start: row1-start;
+  grid-row-end: 3;
+}
+```
+
+Code Snippet Article <https://css-tricks.com/snippets/css/complete-guide-grid/>
