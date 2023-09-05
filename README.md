@@ -29,3 +29,11 @@ Here is a table of some sports that I would like to recommend to you.
 | Track | Heard it was a great way to make friends | 6-8 |
 | Basketball | Heard it was great for team-building | 8-10 |
 
+***
+
+# Pithy Quotes
+
+> "The more I learn, the more I realize how much I don't know." *Isaac Newton*
+
+> "The only true wisdom is in knowing you know nothing." *Socrates*
+
