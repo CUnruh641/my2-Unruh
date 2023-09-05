@@ -8,7 +8,9 @@ Finding it **enjoyable** to be by them.
 ***
 
 ### Vacation Activities
-* Play Boardgames
-* Watch TV/Movies
-* Conversations and Book/Bible Studies
+1. Play Boardgames
+2. Watch TV/Movies
+3. Conversations and Book/Bible Studies
+
+* Any food that we would enjoy eating together
 
